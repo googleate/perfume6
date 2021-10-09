@@ -42,6 +42,6 @@ name = "Votar"
 url = "contact"
 weight = 4
 [[main]]
-name = "FAQ"
-url = "faq"
-weight = 5
+name = "Ceremonia"
+url = "https://perfume6.netlify.app/blog/ceremonia/"
+weight = "5"
