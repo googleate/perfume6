@@ -1,61 +1,52 @@
 ---
-title: "Pricing"
-subtitle: ""
-# meta description
-description: "This is meta description"
-draft: false
-
+title: Resultados
+subtitle: ''
+description: Premios Perfuma Awards 2021
 basic:
-  name : "Basic Plan"
-  price: "$49"
-  price_per : "month"
-  info : "Best For Small Individuals"
+  name: Segundo Puesto
+  price: Mejor Olor
+  price_per: ''
+  info: Segundo Mejor del año
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
+  - Bueno
+  - Casi bueno
   button:
-    enable : true
-    label : "Get started for free"
-    link : "#"
-    
+    enable: false
+    label: Get started for free
+    link: "#"
 professional:
-  name : "Professional Plan"
-  price: "$49"
-  price_per : "month"
-  info : "Best For Professionals"
+  name: Primer Puesto
+  price: Ganador
+  price_per: ''
+  info: Lavanda
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
-  - "Cloud Service"
-  - "Best Dashboard"
+  - Buenisimo
+  - Casi perfecto
   button:
-    enable : true
-    label : "Get started for free"
-    link : "#"
-    
+    enable: false
+    label: Get started for free
+    link: "#"
 business:
-  name : "Business Plan"
-  price: "$49"
-  price_per : "month"
-  info : "Best For Large Individuals"
+  name: Tercer Puesto
+  price: Tercer Puesto
+  price_per: ''
+  info: Cavani
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
+  - Regular
+  - Malo
   button:
-    enable : true
-    label : "Get started for free"
-    link : "#"
-
+    enable: false
+    label: Get started for free
+    link: "#"
 call_to_action:
-  enable : true
-  title : "Need a larger plan?"
-  image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  enable: true
+  title: Aún estamos en etapa de votaciones
+  image: images/tia.jpg
+  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
+    eget amet, tempus eu at consecttur.
   button:
-    enable : true
-    label : "Contact Us"
-    link : "contact"
+    enable: true
+    label: Votar
+    link: contact
+
 ---
