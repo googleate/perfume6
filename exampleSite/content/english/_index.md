@@ -44,7 +44,7 @@ service:
     button:
       enable: true
       label: Ver
-      link: "#"
+      link: "https://perfume6.netlify.app/blog/premios/"
   - title: Ceremonia
     images:
     - images/slide3.jpg
