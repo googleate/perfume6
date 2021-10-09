@@ -83,7 +83,7 @@ service:
       link: "https://perfume6.netlify.app/blog/jurado/"
 screenshot:
   enable: true
-  title: Conocer los mejores perfumes del mundo <br> Bienvenidos a la edición 2021
+  title: Bienvenidos a la edición 2021
   image: images/screenshot.jpg
 call_to_action:
   enable: true
