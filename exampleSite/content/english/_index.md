@@ -68,7 +68,7 @@ service:
     button:
       enable: true
       label: Ver
-      link: "#"
+      link: "https://perfume6.netlify.app/blog/"
   - title: Jurado
     images:
     - images/jurado.jpg
