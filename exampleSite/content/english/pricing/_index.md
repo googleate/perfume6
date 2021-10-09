@@ -1,6 +1,6 @@
 ---
 title: Resultados
-subtitle: ''
+subtitle: Premios 2021
 description: Premios Perfume Awards 2021
 basic:
   name: Segundo Puesto
