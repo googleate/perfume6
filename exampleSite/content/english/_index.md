@@ -2,20 +2,18 @@
 banner:
   title: 'Perfume Awards 2021 '
   image: images/banner-art.jpg
-  content: Cada año el muno de la perfumería y los aficionados a las fragancias<br>
-    podrán ver el premio
+  content: Cada año el muno de la perfumería y sus aficionados podrán ver el premio a la mejor fragancia. Los Perfume Awards serán votados por las personalidades más prestigiosas del sector.<br>
   button:
     enable: true
-    label: Contact Us
+    label: Votar
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Acerca de los Premios
   feature_item:
-  - name: Clean Code
-    icon: fas fa-code
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Object Oriented
+  - name: Votación
+    icon: fas fa-users
+    content: Los mejores perfumes según los protagonistas de la industria
     icon: fas fa-object-group
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: 24h Service
