@@ -1,5 +1,5 @@
 ---
-title: Premios 2021
+title: Andres y Juan
 date: 
 image: images/blog/post-3.jpg
 type: regular
