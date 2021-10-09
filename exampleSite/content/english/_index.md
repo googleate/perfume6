@@ -56,7 +56,7 @@ service:
     button:
       enable: true
       label: Ver
-      link: "#"
+      link: "https://perfume6.netlify.app/blog/ceremonia/"
   - title: Noticias
     images:
     - images/noticias.jpg
@@ -80,7 +80,7 @@ service:
     button:
       enable: true
       label: Ver
-      link: "#"
+      link: "https://perfume6.netlify.app/blog/jurado/"
 screenshot:
   enable: true
   title: Conocer los mejores perfumes del mundo <br> Bienvenidos a la edición 2021
