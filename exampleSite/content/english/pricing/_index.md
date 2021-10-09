@@ -4,7 +4,7 @@ subtitle: Premios 2021
 description: Premios Perfume Awards 2021
 basic:
   name: Segundo Puesto
-  price: Segundo Puesto
+  price: 2do Puesto
   price_per: ''
   info: Segundo Mejor del año
   services:
