@@ -3,8 +3,9 @@ banner:
   title: 'PERFUME AWARDS 2021 <br> Los mejores perfumes según los protagonistas de
     la industria <br> '
   image: images/banner-art.svg
-  content: Cada año el muno de la perfumería y los aficionados a las fragancias<br>
-    podrán ver el premio
+  content: " Los mejores perfumes según los protagonistas de la industria <br> Cada
+    año el muno de la perfumería y los aficionados a las fragancias<br> podrán ver
+    el premio"
   button:
     enable: true
     label: Contact Us
