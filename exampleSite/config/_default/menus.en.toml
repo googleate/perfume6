@@ -8,8 +8,8 @@ url = "blog"
 name = "Resultados"
 url = "pricing"
 [[footer_middle]]
-name = "Home"
-url = "#"
+name = "Ceremonia"
+url = "https://perfume6.netlify.app/blog/ceremonia/"
 [[footer_middle]]
 name = "El Jurado"
 url = "https://perfume6.netlify.app/blog/jurado/"
