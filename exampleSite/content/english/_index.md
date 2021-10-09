@@ -31,10 +31,46 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: Premios 2021
     images:
-    - images/service-1.png
-    - images/service-2.png
+    - images/slide1.jpg
+    - images/slide2.jpg
+    - images/slide3.jpg
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
+      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
+      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
+      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
+      consquat.
+    button:
+      enable: true
+      label: Ver
+      link: "#"
+  - title: Ceremonia
+    images:
+    - images/slide3.jpg
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
+      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
+      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
+      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
+      consquat.
+    button:
+      enable: true
+      label: Check it out
+      link: "#"
+  - title: Noticias
+    images:
+    - images/slide2.jpg
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
+      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
+      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
+      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
+      consquat.
+    button:
+      enable: true
+      label: Ver
+      link: "#"
+  - title: El Premio
+    images:
     - images/service-3.png
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
       eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
@@ -43,51 +79,15 @@ service:
       consquat.
     button:
       enable: true
-      label: Check it out
-      link: "#"
-  - title: It is a privately owned Information and cyber security company
-    images:
-    - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
-    button:
-      enable: true
-      label: Check it out
-      link: "#"
-  - title: It’s a team of experienced and skilled people with distributions
-    images:
-    - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
-    button:
-      enable: true
-      label: Check it out
-      link: "#"
-  - title: A company standing different from others
-    images:
-    - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
-    button:
-      enable: true
-      label: Check it out
+      label: Ver
       link: "#"
 screenshot:
   enable: true
-  title: Experience the best <br> workflow with us
+  title: Conocer los mejores perfumes del mundp <br> Bienvenidos a la edición 2021
   image: images/screenshot.jpg
 call_to_action:
   enable: true
-  title: Listo para votar?
+  title: ¿Listo para votar?
   image: images/tia.jpg
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
     eget amet, tempus eu at consecttur.
