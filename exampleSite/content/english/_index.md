@@ -1,7 +1,7 @@
 ---
 banner:
   title: 'Perfume Awards 2021 '
-  image: images/banner-art.jpg
+  image: images/banner.jpg
   content: Cada año el mundo de la perfumería y sus aficionados podrán ver el premio a la mejor fragancia. <br> Los Perfume Awards serán votados por las personalidades más prestigiosas del sector. Los mejores perfumes según los protagonistas de la industria. Hemos unido a las personalidades más destacadas para elegirlos, perfumistas, propietarios de marcas y tiendas de perfume de nicho.
   button:
     enable: true
