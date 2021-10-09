@@ -4,7 +4,7 @@ subtitle: Premios 2021
 description: Premios Perfume Awards 2021
 basic:
   name: Segundo Puesto
-  price: Mejor Olor
+  price: Segundo Puesto
   price_per: ''
   info: Segundo Mejor del año
   services:
@@ -18,7 +18,7 @@ professional:
   name: Primer Puesto
   price: Ganador
   price_per: ''
-  info: Lavanda
+  info: Mejor perfume del año
   services:
   - Buenisimo
   - Casi perfecto
@@ -30,7 +30,7 @@ business:
   name: Tercer Puesto
   price: Tercer Puesto
   price_per: ''
-  info: Cavani
+  info: Tercer mejor perfume
   services:
   - Regular
   - Malo
