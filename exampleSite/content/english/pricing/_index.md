@@ -28,7 +28,7 @@ professional:
     link: "#"
 business:
   name: Tercer Puesto
-  price: Tercer Puesto
+  price: 3er Puesto
   price_per: ''
   info: Tercer mejor perfume
   services:
