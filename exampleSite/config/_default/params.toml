@@ -12,24 +12,20 @@ enable = true
 expire_days = 2
 [navigation_button]
 enable = true
-label = "Get Started"
+label = "Votar"
 link = "contact"
 [preloader]
 enable = false
 preloader = ""
 [[social]]
 icon = "fab fa-facebook"
-link = "#"
+link = "https://www.facebook.com/AndresPerfumeMan"
 title = "facebook"
 [[social]]
-icon = "fab fa-twitter"
-link = "#"
-title = "twitter"
+icon = "fab fa-instagram"
+link = "https://www.instagram.com/andresperfumeman/"
+title = "instagram"
 [[social]]
-icon = "fab fa-skype"
-link = "#"
-title = "skype"
-[[social]]
-icon = "fab fa-linkedin"
-link = "#"
-title = "linkedin"
+icon = "fab fa-youtube"
+link = "https://www.youtube.com/channel/UCSU9CcO8hvayDPZSZcfTxDg"
+title = "youtube"
