@@ -43,7 +43,7 @@ service:
       consquat.
     button:
       enable: true
-      label: Ver
+      label: Ver más...
       link: "https://perfume6.netlify.app/blog/premios/"
   - title: Ceremonia
     images:
@@ -55,7 +55,7 @@ service:
       consquat.
     button:
       enable: true
-      label: Ver
+      label: Ver más...
       link: "https://perfume6.netlify.app/blog/ceremonia/"
   - title: Noticias
     images:
@@ -67,7 +67,7 @@ service:
       consquat.
     button:
       enable: true
-      label: Ver
+      label: Ver más...
       link: "https://perfume6.netlify.app/blog/"
   - title: Jurado
     images:
@@ -79,7 +79,7 @@ service:
       consquat.
     button:
       enable: true
-      label: Ver
+      label: Ver más...
       link: "https://perfume6.netlify.app/blog/jurado/"
 screenshot:
   enable: true
