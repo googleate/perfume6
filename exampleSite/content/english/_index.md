@@ -87,13 +87,13 @@ screenshot:
   image: images/screenshot.jpg
 call_to_action:
   enable: true
-  title: Ready to get started?
-  image: images/cta.svg
+  title: Listo para votar?
+  image: images/tia.jpg
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
     eget amet, tempus eu at consecttur.
   button:
     enable: true
-    label: Contact Us
+    label: Votar
     link: contact
 
 ---
