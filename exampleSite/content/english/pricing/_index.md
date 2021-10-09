@@ -1,7 +1,7 @@
 ---
 title: Resultados
 subtitle: ''
-description: Premios Perfuma Awards 2021
+description: Premios Perfume Awards 2021
 basic:
   name: Segundo Puesto
   price: Mejor Olor
