@@ -8,19 +8,19 @@ url = "blog"
 name = "Resultados"
 url = "pricing"
 [[footer_middle]]
-name = "Pricing"
-url = "pricing"
-[[footer_middle]]
-name = "Platform"
+name = "Home"
 url = "#"
 [[footer_middle]]
-name = "Features"
-url = "#"
+name = "El Jurado"
+url = "https://perfume6.netlify.app/blog/jurado/"
+[[footer_middle]]
+name = "Base de Datos"
+url = "https://perfume6.netlify.app/blog/post-4/"
 [[footer_right]]
-name = "Privacy Policy"
+name = "Política de Privacidad"
 url = "privacy-policy"
 [[footer_right]]
-name = "Terms & Conditions"
+name = "Términos y condiciones"
 url = "terms-conditions"
 [[footer_right]]
 name = "FAQ"
