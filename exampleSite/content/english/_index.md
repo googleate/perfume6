@@ -31,7 +31,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: Premios 2021
+  - title: El premio
     images:
     - images/slide1.jpg
     - images/slide2.jpg
@@ -59,7 +59,7 @@ service:
       link: "#"
   - title: Noticias
     images:
-    - images/slide2.jpg
+    - images/noticias.jpg
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
       eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
       sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
@@ -69,7 +69,7 @@ service:
       enable: true
       label: Ver
       link: "#"
-  - title: El Premio
+  - title: Jurado
     images:
     - images/service-3.png
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
