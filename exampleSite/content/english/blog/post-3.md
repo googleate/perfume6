@@ -3,9 +3,11 @@ title: Andres y Juan
 date: 
 image: images/blog/post-3.jpg
 type: regular
-description: This is meta description
+description: Andrés y Juan
 
 ---
+Juan Becerril y Andrés Croxatto son los creadores de contenido sobre perfumes más populares de habla hispana.
+
 ##### Andrés Croxatto
 
 Para mi este premio es el mejor es la mejor guía de compra para las siguientes adquisiciones de perfumes, válido para todo el mundo. Usuarios normales, expertos y coleccionistas
