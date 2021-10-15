@@ -1,7 +1,7 @@
 ---
 title: Andres y Juan
 date: 
-image: images/blog/post-3.jpg
+image: "/images/unnamed.jpg"
 type: regular
 description: Andrés y Juan
 
