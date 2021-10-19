@@ -70,7 +70,7 @@ service:
     button:
       enable: true
       label: Read more
-      link: https://perfume6.netlify.app/blog/
+      link: exampleSite/content/deutsch/blog/news.md
   - title: Jury
     images:
     - images/jurado.jpg
