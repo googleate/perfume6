@@ -46,7 +46,7 @@ service:
     button:
       enable: true
       label: Read more
-      link: https://perfume6.netlify.app/blog/premios/
+      link: exampleSite/content/deutsch/blog/the-award.md
   - title: Ceremony
     images:
     - images/slide3.jpg
