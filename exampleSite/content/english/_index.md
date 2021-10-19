@@ -70,7 +70,7 @@ service:
     button:
       enable: true
       label: Click aqui para ver
-      link: ''
+      link: https://perfume6.netlify.app/blog/post-3/
 screenshot:
   enable: true
   title: Bienvenidos a la edición 2021<br>
