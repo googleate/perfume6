@@ -47,26 +47,18 @@ service:
       enable: false
       label: Ver más...
       link: https://perfume6.netlify.app/blog/premios/
-  - title: Ceremonia
+  - title: Ceremonia de Premios 2021
     images:
     - images/slide3.jpg
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: ''
     button:
       enable: true
-      label: Ver más...
+      label: Click aquí para ver
       link: https://perfume6.netlify.app/blog/ceremonia/
   - title: Noticias
     images:
     - images/noticias.jpg
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: ''
     button:
       enable: true
       label: Ver más...
