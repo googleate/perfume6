@@ -13,7 +13,7 @@ banner:
     link: contact
 feature:
   enable: false
-  title: Acerca de los Premios
+  title: About
   feature_item:
   - name: Votación
     icon: fas fa-object-group
@@ -33,7 +33,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: El premio
+  - title: The Award
     images:
     - images/slide1.jpg
     - images/slide2.jpg
@@ -45,9 +45,9 @@ service:
       consquat.
     button:
       enable: true
-      label: Ver más...
+      label: Read more
       link: https://perfume6.netlify.app/blog/premios/
-  - title: Ceremonia
+  - title: Ceremony
     images:
     - images/slide3.jpg
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
@@ -57,9 +57,9 @@ service:
       consquat.
     button:
       enable: true
-      label: Ver más...
+      label: Read more
       link: https://perfume6.netlify.app/blog/ceremonia/
-  - title: Noticias
+  - title: News
     images:
     - images/noticias.jpg
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
@@ -69,9 +69,9 @@ service:
       consquat.
     button:
       enable: true
-      label: Ver más...
+      label: Read more
       link: https://perfume6.netlify.app/blog/
-  - title: Jurado
+  - title: Jury
     images:
     - images/jurado.jpg
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
@@ -81,21 +81,21 @@ service:
       consquat.
     button:
       enable: true
-      label: Ver más...
+      label: Read more
       link: https://perfume6.netlify.app/blog/jurado/
 screenshot:
   enable: true
-  title: Bienvenidos a la edición 2021<br>
+  title: Welcome to Perfume Awards 2021<br>
   image: images/screenshot.jpg
 call_to_action:
   enable: true
-  title: "¿Listo para votar?"
+  title: Are you ready to vote?
   image: images/tia.jpg
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
     eget amet, tempus eu at consecttur.
   button:
     enable: true
-    label: Votar
+    label: Vote
     link: contact
 
 ---
