@@ -82,7 +82,7 @@ service:
     button:
       enable: true
       label: Read more
-      link: https://perfume6.netlify.app/blog/jurado/
+      link: exampleSite/content/deutsch/blog/jury.md
 screenshot:
   enable: true
   title: Welcome to Perfume Awards 2021<br>
