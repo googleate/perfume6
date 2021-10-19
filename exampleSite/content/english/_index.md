@@ -33,6 +33,14 @@ feature:
 service:
   enable: true
   service_item:
+  - title: Los Organizadores
+    images:
+    - "/images/slide3.jpg"
+    content: ''
+    button:
+      enable: true
+      label: Click aqui para ver
+      link: ''
   - title: Perfume Awards
     images:
     - images/slide1.jpg
