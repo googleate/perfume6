@@ -1,4 +1,4 @@
-[en]
+[du]
 contentDir = "content/deutsch"
 copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"
 footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
@@ -8,7 +8,7 @@ footer_menu_right = "Support"
 languageName = "English"
 title = "Bigspring Hugo"
 weight = 2
-[es]
+[en]
 contentDir = "content/english"
 copyright = "Perfume Awards 2021"
 footer_content = "Síguenos en RRSS para estar al tanto de las últimas actualizaciones del mundo del perfume"
