@@ -46,7 +46,7 @@ service:
     button:
       enable: true
       label: Read more
-      link: https://perfume6.netlify.app/blog/the-award/
+      link: https://perfume6.netlify.app/de/blog/the-award/
   - title: Ceremony
     images:
     - images/slide3.jpg
@@ -58,7 +58,7 @@ service:
     button:
       enable: true
       label: Read more
-      link: https://perfume6.netlify.app/blog/ceremony
+      link: https://perfume6.netlify.app/de/blog/ceremony
   - title: News
     images:
     - images/noticias.jpg
@@ -70,7 +70,7 @@ service:
     button:
       enable: true
       label: Read more
-      link: https://perfume6.netlify.app/blog/news
+      link: https://perfume6.netlify.app/de/blog/news
   - title: Jury
     images:
     - images/jurado.jpg
@@ -82,7 +82,7 @@ service:
     button:
       enable: true
       label: Read more
-      link: https://perfume6.netlify.app/blog/jury
+      link: https://perfume6.netlify.app/de/blog/jury
 screenshot:
   enable: true
   title: Welcome to Perfume Awards 2021<br>
