@@ -38,10 +38,13 @@ service:
     - images/slide1.jpg
     - images/slide2.jpg
     - images/slide3.jpg
-    content: Cada año el mundo del perfume y los aficionados a las fragancias podrán
-      ver el premio del mejor perfume
+    content: Cada año el mundo de la perfumería y sus aficionados podrán ver el premio
+      a la mejor fragancia. <br> Los Perfume Awards serán votados por las personalidades
+      más prestigiosas del sector. Los mejores perfumes según los protagonistas de
+      la industria. Hemos unido a las personalidades más destacadas para elegirlos,
+      perfumistas, propietarios de marcas y tiendas de perfume de nicho.
     button:
-      enable: true
+      enable: false
       label: Ver más...
       link: https://perfume6.netlify.app/blog/premios/
   - title: Ceremonia
