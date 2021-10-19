@@ -1,12 +1,4 @@
-[[footer_left]]
-name = "Votar"
-url = "contact"
-[[footer_left]]
-name = "Blog"
-url = "blog"
-[[footer_left]]
-name = "Resultados"
-url = "pricing"
+footer_left = []
 [[footer_middle]]
 name = "Ceremonia"
 url = "https://perfume6.netlify.app/blog/ceremonia/"
