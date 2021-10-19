@@ -3,46 +3,35 @@ title: Results Perfume Awards 2021
 subtitle: ''
 description: The best perfumes of the year
 basic:
-  name: Basis Plan
-  price: "€49"
-  price_per: Monat
-  info: Ideal für KMUs
-  services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  name: ''
+  price: Second Place
+  price_per: ''
+  info: ''
+  services: []
   button:
     enable: true
-    label: Kostenlos starten
-    link: "#"
+    label: Vote
+    link: contact
 professional:
-  name: Professional Plan
-  price: "€49"
-  price_per: Monat
-  info: Ideal für Professionals
-  services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  - Cloud Service
-  - Best Dashboard
+  name: ''
+  price: First Place
+  price_per: ''
+  info: ''
+  services: []
   button:
     enable: true
-    label: Kostenlos starten
-    link: "#"
+    label: Vote
+    link: contact
 business:
-  name: Business Plan
-  price: "€49"
-  price_per: Monat
-  info: Ideal für Unternehmen
-  services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  name: ''
+  price: Third Place
+  price_per: ''
+  info: ''
+  services: []
   button:
     enable: true
-    label: Kostenlos starten
-    link: "#"
+    label: Vote
+    link: contact
 call_to_action:
   enable: true
   title: Need a larger plan?
