@@ -19,6 +19,7 @@ fields:
   name: description
   label: meta description
 pages:
+- exampleSite/content/deutsch/blog/andres-and-juan.md
 - exampleSite/content/deutsch/blog/ceremony.md
 - exampleSite/content/deutsch/blog/data-base.md
 - exampleSite/content/deutsch/blog/the-award.md
