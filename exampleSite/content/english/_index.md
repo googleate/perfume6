@@ -33,14 +33,6 @@ feature:
 service:
   enable: true
   service_item:
-  - title: Los Organizadores
-    images:
-    - "/images/slide3.jpg"
-    content: ''
-    button:
-      enable: true
-      label: Click aqui para ver
-      link: ''
   - title: Perfume Awards
     images:
     - images/slide1.jpg
@@ -71,6 +63,14 @@ service:
       enable: true
       label: Click aquí para ver
       link: https://perfume6.netlify.app/blog/jurado/
+  - title: Los Organizadores
+    images:
+    - "/images/slide3.jpg"
+    content: ''
+    button:
+      enable: true
+      label: Click aqui para ver
+      link: ''
 screenshot:
   enable: true
   title: Bienvenidos a la edición 2021<br>
