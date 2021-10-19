@@ -5,6 +5,7 @@ description = "Perfume Awards"
 image = "images/logo.png"
 logo = "images/logo.png"
 logo_width = "200px"
+social = []
 [cookies]
 button = "I Accept"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
@@ -17,15 +18,3 @@ link = "contact"
 [preloader]
 enable = false
 preloader = ""
-[[social]]
-icon = "fab fa-facebook"
-link = "https://www.facebook.com/AndresPerfumeMan"
-title = "facebook"
-[[social]]
-icon = "fab fa-instagram"
-link = "https://www.instagram.com/andresperfumeman/"
-title = "instagram"
-[[social]]
-icon = "fab fa-youtube"
-link = "https://www.youtube.com/channel/UCSU9CcO8hvayDPZSZcfTxDg"
-title = "youtube"
