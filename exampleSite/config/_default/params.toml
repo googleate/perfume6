@@ -12,7 +12,7 @@ enable = true
 expire_days = 2
 [navigation_button]
 enable = true
-label = "Votar"
+label = "Vote"
 link = "contact"
 [preloader]
 enable = false
