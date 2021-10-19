@@ -1,5 +1,5 @@
 ---
-title: Andres y Juan
+title: Los Organizadores
 date: 
 image: "/images/unnamed.jpg"
 type: regular
