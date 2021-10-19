@@ -6,8 +6,8 @@ url = "https://perfume6.netlify.app/blog/ceremonia/"
 name = "El Jurado"
 url = "https://perfume6.netlify.app/blog/jurado/"
 [[footer_middle]]
-name = "Base de Datos"
-url = "https://perfume6.netlify.app/blog/post-4/"
+name = "Organizadores"
+url = "https://perfume6.netlify.app/blog/post-3/"
 [[footer_right]]
 name = "Política de Privacidad"
 url = "privacy-policy"
