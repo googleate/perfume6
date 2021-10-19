@@ -65,7 +65,7 @@ service:
       link: https://perfume6.netlify.app/blog/jurado/
   - title: Los Organizadores
     images:
-    - "/images/slide3.jpg"
+    - "/images/unnamed.jpg"
     content: ''
     button:
       enable: true
