@@ -58,7 +58,7 @@ service:
     button:
       enable: true
       label: Read more
-      link: https://perfume6.netlify.app/blog/ceremonia/
+      link: exampleSite/content/deutsch/blog/ceremony.md
   - title: News
     images:
     - images/noticias.jpg
