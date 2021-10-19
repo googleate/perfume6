@@ -55,14 +55,6 @@ service:
       enable: true
       label: Click aquí para ver
       link: https://perfume6.netlify.app/blog/ceremonia/
-  - title: Noticias
-    images:
-    - images/noticias.jpg
-    content: ''
-    button:
-      enable: true
-      label: Ver más...
-      link: https://perfume6.netlify.app/blog/
   - title: Jurado
     images:
     - images/jurado.jpg
@@ -81,10 +73,9 @@ screenshot:
   image: images/screenshot.jpg
 call_to_action:
   enable: true
-  title: "¿Listo para votar?"
+  title: La Votación se encuentra abierta en estos momentos.
   image: images/tia.jpg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: " La fecha de la Gala será el próximo ...."
   button:
     enable: true
     label: Votar
