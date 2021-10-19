@@ -85,8 +85,8 @@ service:
       link: "#"
 screenshot:
   enable: true
-  title: Experience the best <br> workflow with us
-  image: images/screenshot.svg
+  title: Welcome to Permufe Awards 2021
+  image: "/images/screenshot.jpg"
 call_to_action:
   enable: true
   title: Ready to get started?
