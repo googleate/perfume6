@@ -55,13 +55,13 @@ service:
       enable: true
       label: Click aquí para ver
       link: https://perfume6.netlify.app/blog/ceremonia/
-  - title: Jurado
+  - title: El Jurado de los premios
     images:
     - images/jurado.jpg
     content: ''
     button:
       enable: true
-      label: Ver más...
+      label: Click aquí para ver
       link: https://perfume6.netlify.app/blog/jurado/
 screenshot:
   enable: true
