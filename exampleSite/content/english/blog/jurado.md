@@ -6,17 +6,11 @@ type: regular
 description: This is meta description
 
 ---
-##### Participantes del Jurado
+## Participantes del Jurado
 
-1. [Fulano Perez](https://perfume6.netlify.app/blog/jurado/ "jurado")
-2. Mengano Perez
-3. Margarita 
+### [Fulano Pérez](https://perfume6.netlify.app/blog/jurado/)
 
-##### Blockquote
-
-> This is a blockquote example.
-
-Colons can be used to align columns.
+![](/images/unnamed.jpg)
 
 | Tables | Are | Cool |
 | --- | :---: | ---: |
@@ -32,3 +26,9 @@ raw Markdown line up prettily. You can also use inline Markdown.
 | --- | --- | --- |
 | Still | renders | nicely |
 | 1 | 2 | 3 |
+
+<hr>
+
+##### Youtube video
+
+{{< youtube C0DPdy98e4c >}}
