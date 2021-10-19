@@ -50,7 +50,7 @@ service:
   - title: Ceremonia de Premios 2021
     images:
     - images/slide3.jpg
-    content: ''
+    content: 'Breve descripción de la ceremonia '
     button:
       enable: true
       label: Click aquí para ver
