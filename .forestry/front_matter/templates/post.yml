@@ -20,5 +20,6 @@ fields:
   label: meta description
 pages:
 - exampleSite/content/deutsch/blog/ceremony.md
+- exampleSite/content/deutsch/blog/data-base.md
 - exampleSite/content/deutsch/blog/the-award.md
 - exampleSite/content/deutsch/blog/the-jury.md
