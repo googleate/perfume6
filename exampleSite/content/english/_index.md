@@ -2,7 +2,11 @@
 banner:
   title: 'Perfume Awards 2021 '
   image: images/banner.jpg
-  content: Cada año el mundo de la perfumería y sus aficionados podrán ver el premio a la mejor fragancia. <br> Los Perfume Awards serán votados por las personalidades más prestigiosas del sector. Los mejores perfumes según los protagonistas de la industria. Hemos unido a las personalidades más destacadas para elegirlos, perfumistas, propietarios de marcas y tiendas de perfume de nicho.
+  content: Cada año el mundo de la perfumería y sus aficionados podrán ver el premio
+    a la mejor fragancia. <br> Los Perfume Awards serán votados por las personalidades
+    más prestigiosas del sector. Los mejores perfumes según los protagonistas de la
+    industria. Hemos unido a las personalidades más destacadas para elegirlos, perfumistas,
+    propietarios de marcas y tiendas de perfume de nicho.
   button:
     enable: true
     label: Votar
@@ -12,8 +16,6 @@ feature:
   title: Acerca de los Premios
   feature_item:
   - name: Votación
-    icon: fas fa-users
-    content: Los mejores perfumes según los protagonistas de la industria
     icon: fas fa-object-group
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: 24h Service
@@ -31,20 +33,17 @@ feature:
 service:
   enable: true
   service_item:
-  - title: El premio
+  - title: Perfume Awards
     images:
     - images/slide1.jpg
     - images/slide2.jpg
     - images/slide3.jpg
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Cada año el mundo del perfume y los aficionados a las fragancias podrán
+      ver el premio del mejor perfume
     button:
       enable: true
       label: Ver más...
-      link: "https://perfume6.netlify.app/blog/premios/"
+      link: https://perfume6.netlify.app/blog/premios/
   - title: Ceremonia
     images:
     - images/slide3.jpg
@@ -56,7 +55,7 @@ service:
     button:
       enable: true
       label: Ver más...
-      link: "https://perfume6.netlify.app/blog/ceremonia/"
+      link: https://perfume6.netlify.app/blog/ceremonia/
   - title: Noticias
     images:
     - images/noticias.jpg
@@ -68,7 +67,7 @@ service:
     button:
       enable: true
       label: Ver más...
-      link: "https://perfume6.netlify.app/blog/"
+      link: https://perfume6.netlify.app/blog/
   - title: Jurado
     images:
     - images/jurado.jpg
@@ -80,14 +79,14 @@ service:
     button:
       enable: true
       label: Ver más...
-      link: "https://perfume6.netlify.app/blog/jurado/"
+      link: https://perfume6.netlify.app/blog/jurado/
 screenshot:
   enable: true
-  title: Bienvenidos a la edición 2021<br> 
+  title: Bienvenidos a la edición 2021<br>
   image: images/screenshot.jpg
 call_to_action:
   enable: true
-  title: ¿Listo para votar?
+  title: "¿Listo para votar?"
   image: images/tia.jpg
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
     eget amet, tempus eu at consecttur.
