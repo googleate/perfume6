@@ -74,7 +74,7 @@ screenshot:
 call_to_action:
   enable: true
   title: La Votación se encuentra abierta en estos momentos.
-  image: images/tia.jpg
+  image: images/banner.jpg
   content: " La fecha de la Gala será el próximo ...."
   button:
     enable: true
