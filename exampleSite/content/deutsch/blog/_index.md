@@ -1,6 +1,6 @@
 ---
 title: Blog
 subtitle: ''
-description: The last news about the world of Perfume
+description: The latest news about the world of perfume
 
 ---
