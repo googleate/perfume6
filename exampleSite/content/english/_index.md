@@ -50,6 +50,7 @@ service:
   - title: Ceremonia de Premios 2021
     images:
     - images/slide3.jpg
+    - "/images/slide1.jpg"
     content: ''
     button:
       enable: true
@@ -58,6 +59,7 @@ service:
   - title: El Jurado de los premios
     images:
     - images/jurado.jpg
+    - "/images/slide2.jpg"
     content: ''
     button:
       enable: true
