@@ -1,7 +1,6 @@
 ---
-title: "Neuigkeiten"
-subtitle: ""
-# meta description
-description: "Dies ist die Metabeschreibung"
-draft: false
+title: Blog
+subtitle: ''
+description: The last news about the world of Perfume
+
 ---
