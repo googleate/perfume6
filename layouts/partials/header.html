@@ -35,7 +35,7 @@
 
           <!-- Language List -->
         {{ if .IsTranslated }}
-          <img src="lang.jpg" alt="lang icon" width="15" height="15">
+          <img src="/images/lang.jpg" alt="lang icon" width="15" height="15">
         <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
           {{ $siteLanguages := site.Languages}}
           {{ $pageLang := .Page.Lang}}
