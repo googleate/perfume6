@@ -30,18 +30,14 @@ name = "Home"
 url = "/"
 weight = 1
 [[main]]
-name = "Blog"
-url = "blog"
+name = "Premio"
+url = "https://perfume6.netlify.app/blog/premios/"
 weight = 2
 [[main]]
-name = "Resultados"
-url = "pricing"
+name = "Jurado"
+url = "https://perfume6.netlify.app/blog/jurado/"
 weight = 3
 [[main]]
-name = "Votar"
-url = "contact"
-weight = 4
-[[main]]
-name = "Ceremonia"
+name = "Edición 2021"
 url = "https://perfume6.netlify.app/blog/ceremonia/"
 weight = "5"
