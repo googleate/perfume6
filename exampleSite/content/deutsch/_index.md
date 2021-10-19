@@ -2,12 +2,11 @@
 banner:
   title: PERFUME AWARDS 2021
   image: "/images/banner.jpg"
-  content: " Los mejores perfumes según los protagonistas de la industria <br> Cada
-    año el muno de la perfumería y los aficionados a las fragancias<br> podrán ver
-    el premio"
+  content: The best perfumes according to the industry stars <br> Every year the world
+    of perfumery and fragrance fans will be able to see the award
   button:
     enable: true
-    label: Contact Us
+    label: Vote now!
     link: contact
 feature:
   enable: false
