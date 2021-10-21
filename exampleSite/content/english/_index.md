@@ -44,7 +44,7 @@ service:
       la industria. Hemos unido a las personalidades más destacadas para elegirlos,
       perfumistas, propietarios de marcas y tiendas de perfume de nicho.
     button:
-      enable: false
+      enable: true
       label: Ver más...
       link: https://perfume6.netlify.app/blog/premios/
   - title: Ceremonia de Premios 2021
