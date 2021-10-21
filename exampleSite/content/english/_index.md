@@ -12,7 +12,7 @@ banner:
     label: Votar
     link: contact
 feature:
-  enable: false
+  enable: true
   title: Acerca de los Premios
   feature_item:
   - name: Votación
