@@ -73,7 +73,7 @@ service:
     button:
       enable: true
       label: Click aqui para ver
-      link: https://perfume6.netlify.app/blog/post-3/
+      link: https://perfume6.netlify.app/andres-y-juan/
 screenshot:
   enable: true
   title: Bienvenidos a la edición 2021<br>
