@@ -91,3 +91,19 @@ Perfumista y marca de perfumes
 ![](/images/11.jpg)
 
  {{</ faq >}}
+
+{{< faq "**Francois Henin**" >}}  
+Propietario de la marca y tienda Jovoy Paris  
+[jovoyparis.com](http://jovoyparis.com/ "http://jovoyparis.com/")
+
+![](/images/12.jpg)
+
+ {{</ faq >}}
+
+{{< faq "**Gloria Álvarez** " >}}  
+Fundadora de perfumería Regia, Barcelona  
+[regia.es](http://regia.es/ "http://regia.es/")
+
+![](/images/13.jpg)
+
+ {{</ faq >}}
