@@ -64,7 +64,7 @@ service:
     button:
       enable: true
       label: Click aquí para ver
-      link: https://perfume6.netlify.app/blog/jurado/
+      link: https://perfume6.netlify.app/faq
   - title: Los Organizadores
     images:
     - "/images/unnamed.jpg"
