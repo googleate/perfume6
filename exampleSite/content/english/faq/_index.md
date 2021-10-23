@@ -71,9 +71,9 @@ Fundadora de Strangelove NYC
 
  {{</ faq >}}
 
-{{< faq "**Elizabeth Gaynes**" >}}  
-Fundadora de Strangelove NYC   
-[strangelovenyc.com](https://strangelovenyc.com/)  
-![](/images/9.jpg)
+{{< faq "**Enrico Maraffino**" >}}  
+Fundador de perfumes Label   
+[labelperfumes.com](https://www.labelperfumes.com/)  
+![](/images/10.jpg)
 
  {{</ faq >}}
