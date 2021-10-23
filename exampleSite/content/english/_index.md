@@ -44,7 +44,7 @@ service:
       la industria. Hemos unido a las personalidades más destacadas para elegirlos,
       perfumistas, propietarios de marcas y tiendas de perfume de nicho.
     button:
-      enable: true
+      enable: false
       label: Ver más...
       link: https://perfume6.netlify.app/blog/premios/
   - title: Ceremonia de Premios 2021
@@ -55,7 +55,7 @@ service:
     button:
       enable: true
       label: Click aquí para ver
-      link: https://perfume6.netlify.app/blog/ceremonia/
+      link: https://perfume6.netlify.app/terms-conditions/
   - title: El Jurado de los premios
     images:
     - images/jurado.jpg
