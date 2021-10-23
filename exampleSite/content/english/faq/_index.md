@@ -116,10 +116,43 @@ Propietario de la tienda Niche Perfumes
 
  {{</ faq >}}
 
-{{< faq "Hamad Alotaibi " >}}  
-Propietario de la tienda Niche Perfumes  
-[nicheperfumes.net](http://nicheperfumes.net/ "http://nicheperfumes.net/")
+{{< faq "**James Barry**" >}}  
+Fundador de perfumes TSVGA  
+[tsvgaparfvms.com](http://tsvgaparfvms.com/ "http://tsvgaparfvms.com/")
 
-![](/images/14.jpg)
+![](/images/15.jpg)
+
+ {{</ faq >}}
+
+{{< faq "**Jan Luc Gardarin**" >}}  
+Fundador de la perfumería Le Secret du Marais, Madrid  
+[lesecretdumarais.com](http://lesecretdumarais.com/ "http://lesecretdumarais.com/")
+
+![](/images/16.jpg)
+
+ {{</ faq >}}
+
+{{< faq "**Jeremy Fragrance**" >}}  
+Fundador de Fragrance One y YouTuber  
+[fragrance.one](https://fragrance.one/)  
+[Canal de YouTube](https://www.youtube.com/channel/UCzKrJ5NSA9o7RHYRG12kHZw)
+
+![](/images/17.jpg)
+
+ {{</ faq >}}
+
+{{< faq "**Joaquín Carner**" >}}  
+Fundador de perfumes Carner Barceloina  
+[carnerbarcelona.com](http://carnerbarcelona.com/ "http://carnerbarcelona.com/")
+
+![](/images/18.jpg)
+
+ {{</ faq >}}
+
+{{< faq "**Jordi Magrans** " >}}  
+Fundador de perfumes Almah  
+[almah.com](https://almah.com/)
+
+![](/images/19.jpg)
 
  {{</ faq >}}
