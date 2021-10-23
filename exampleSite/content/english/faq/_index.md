@@ -45,35 +45,41 @@ Perfumista
 {{</ faq >}}
 
 {{< faq "**Daniel Gallagher**" >}}  
-Fundador de pefumes Gallagher   
+Fundador de perfumes Gallagher   
 [gallagherfragrances.com](http://gallagherfragrances.com/ "gallagherfragrances.com")
+
 ![](/images/6.jpg)
-{{</ faq >}}
+
+ {{</ faq >}}
 
 {{< faq "**Dino Caracciolo**" >}}   
 Fundador de perfumes Persons of Interest   
-[personsofinterest.ca](http://personsofinterest.ca/)  
+[personsofinterest.ca](http://personsofinterest.ca/)
+
 ![](/images/7.jpg)
 
 {{</ faq >}}
 
 {{< faq "**Dmitri Bortnikoff**" >}}  
 Perfumista y marca de perfumes   
-[bortnikoff.com](http://bortnikoff.com/)  
+[bortnikoff.com](http://bortnikoff.com/)
+
 ![](/images/8.jpg)
 
  {{</ faq >}}
 
 {{< faq "**Elizabeth Gaynes**" >}}  
 Fundadora de Strangelove NYC   
-[strangelovenyc.com](https://strangelovenyc.com/)  
+[strangelovenyc.com](https://strangelovenyc.com/)
+
 ![](/images/9.jpg)
 
  {{</ faq >}}
 
 {{< faq "**Enrico Maraffino**" >}}  
 Fundador de perfumes Label   
-[labelperfumes.com](https://www.labelperfumes.com/)  
+[labelperfumes.com](https://www.labelperfumes.com/)
+
 ![](/images/10.jpg)
 
  {{</ faq >}}
