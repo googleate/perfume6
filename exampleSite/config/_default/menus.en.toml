@@ -31,5 +31,5 @@ url = "https://perfume6.netlify.app/faq"
 weight = 3
 [[main]]
 name = "Edición 2021"
-url = "https://perfume6.netlify.app/blog/ceremonia/"
+url = "https://perfume6.netlify.app/pricing"
 weight = "5"
