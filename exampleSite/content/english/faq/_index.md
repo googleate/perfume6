@@ -8,11 +8,15 @@ description: Miembros 2021
 Propietaria de perfumes Le Frag  
 [lefrag.com](http://lefrag.com/)
 
+![](/images/1.jpg)
+
 {{</ faq >}}
 
 {{< faq "Alexandro Bianchi" >}}
 Fundador de perfume Agatho  
 [agathoparfum.com](http://agathoparfum.com/ "http://agathoparfum.com/")
+
+![](/images/2.jpg)
 
 {{</ faq >}}
 
