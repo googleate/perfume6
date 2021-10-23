@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: exampleSite/content/english/andres-y-juan.md
+  label: Organizadores
+  match: "**/*"
 - type: heading
   label: Homepage
 - type: document
