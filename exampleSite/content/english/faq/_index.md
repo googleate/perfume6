@@ -172,3 +172,11 @@ Fundadora de perumes M. Micallef
 ![](/images/21.jpg)
 
  {{</ faq >}}
+
+{{< faq "**Mauro Galardi**" >}}  
+Fundador de perfumes Bois 1920   
+[bois1920.it](http://bois1920.it/ "http://bois1920.it/")
+
+![](/images/22.jpg)
+
+ {{</ faq >}}
