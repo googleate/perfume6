@@ -41,9 +41,8 @@ business:
 call_to_action:
   enable: true
   title: Aún estamos en etapa de votaciones
-  image: images/tia.jpg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  image: /images/banner.jpg
+  content: Los resultados se mostrarán a partir de...
   button:
     enable: true
     label: Votar
