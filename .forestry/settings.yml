@@ -4,13 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: https://perfume6.netlify.app/terms-conditions
-  label: Ceremonia (es)
-  create: all
-  match: "**/*"
-  templates:
-  - new-page
 - type: heading
   label: Homepage
 - type: document
@@ -46,7 +39,7 @@ sections:
 - type: heading
   label: Others Page
 - type: document
-  path: https://perfume6.netlify.app/terms-conditions
+  path: exampleSite/content/english/terms-conditions/_index.md
   label: Ceremonia (es)
 - type: document
   path: exampleSite/content/english/contact/_index.md
