@@ -107,3 +107,19 @@ Fundadora de perfumería Regia, Barcelona
 ![](/images/13.jpg)
 
  {{</ faq >}}
+
+{{< faq "Hamad Alotaibi " >}}  
+Propietario de la tienda Niche Perfumes  
+[nicheperfumes.net](http://nicheperfumes.net/ "http://nicheperfumes.net/")
+
+![](/images/14.jpg)
+
+ {{</ faq >}}
+
+{{< faq "Hamad Alotaibi " >}}  
+Propietario de la tienda Niche Perfumes  
+[nicheperfumes.net](http://nicheperfumes.net/ "http://nicheperfumes.net/")
+
+![](/images/14.jpg)
+
+ {{</ faq >}}
