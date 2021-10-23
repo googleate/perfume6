@@ -180,3 +180,59 @@ Fundador de perfumes Bois 1920
 ![](/images/22.jpg)
 
  {{</ faq >}}
+
+{{< faq "**Miguel Matos**" >}}  
+Perfumista y fundador de perfume Miguel Matos  
+[miguelmatosperfumes.shopk.it](http://miguelmatosperfumes.shopk.it/ "http://miguelmatosperfumes.shopk.it/")
+
+![](/images/23.jpg)
+
+ {{</ faq >}}
+
+{{< faq "**Mou Khalaf**" >}}  
+Fundador de perfumes Kajal  
+[kajalperfumes.com](https://kajalperfumes.com/)
+
+![](/images/24.jpg)
+
+ {{</ faq >}}
+
+{{< faq "**Nabil Ibrahim**" >}}  
+Propietario de Maitre Parfumeur et Gantier  
+[maitre-parfumeur-et-gantier.com](https://www.maitre-parfumeur-et-gantier.com/en/)
+
+![](/images/25.jpg)
+
+ {{</ faq >}}
+
+{{< faq "**Ramón Monegal** " >}}  
+Perfumista y marca de perfumes   
+[ramonmonegal.com](http://ramonmonegal.com/ "http://ramonmonegal.com/")
+
+![](/images/26.jpg)
+
+ {{</ faq >}}
+
+{{< faq "**Renier Rodríguez**" >}}  
+Propietario de renier perfumes   
+[renierperfumes.com](http://renierperfumes.com/ "http://renierperfumes.com/")
+
+![](/images/27.jpg)
+
+ {{</ faq >}}
+
+{{< faq "**Steven Gray** " >}}  
+Director creativo Franck Muller Perfume   
+[franckmullerperfume.com](http://franckmullerperfume.com/ "http://franckmullerperfume.com/")
+
+![](/images/28.jpg)
+
+ {{</ faq >}}
+
+{{< faq "**Yvo van Regteren Altena** " >}}  
+Fundador de perfumes Yvra 1958   
+[yvra1958.com](http://yvra1958.com/ "http://yvra1958.com/")
+
+![](/images/29.jpg)
+
+ {{</ faq >}}
