@@ -156,3 +156,19 @@ Fundador de perfumes Almah
 ![](/images/19.jpg)
 
  {{</ faq >}}
+
+{{< faq "**Marjorie Olibere**" >}}  
+Fundadora de perfumes Olibere   
+[olibere.com](http://olibere.com/ "http://olibere.com/")
+
+![](/images/20.jpg)
+
+ {{</ faq >}}
+
+{{< faq "**Martine Micallef** " >}}  
+Fundadora de perumes M. Micallef   
+[parfumsmicallef.com](http://parfumsmicallef.com/ "http://parfumsmicallef.com/")
+
+![](/images/21.jpg)
+
+ {{</ faq >}}
