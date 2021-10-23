@@ -4,11 +4,11 @@ subtitle: ''
 description: Miembros 2021
 
 ---
-{{< faq "**Agnieszka Lewandowska**" >}}
+{{< faq "**Agnieszka Lewandowska**" >}}  
 Propietaria de perfumes Le Frag  
 [lefrag.com](http://lefrag.com/)
 
-[![](/images/1.jpg)](lefrag.com)
+![](/images/1.jpg)
 
 {{</ faq >}}
 
@@ -16,36 +16,31 @@ Propietaria de perfumes Le Frag
 Fundador de perfume Agatho  
 [agathoparfum.com](http://agathoparfum.com/ "http://agathoparfum.com/")
 
-[![](/images/2.jpg)](agathoparfum.com)
+![](/images/2.jpg)
 
 {{</ faq >}}
 
 {{< faq "Alicia Fernández Pascual" >}}
-Propietaria de la perfumería Nadia, Madrid.
+Propietaria de la perfumería Nadia, Madrid.  
+[nadiaperfumeria.com](http://nadiaperfumeria.com/ "nadiaperfumeria.com")
 
-[http://nadiaperfumeria.com/](http://nadiaperfumeria.com/ "http://nadiaperfumeria.com/")
-
-[![](/images/3.jpg)](nadiaperfumeria.com)
+![](/images/3.jpg)
 
 {{</ faq >}}
 
-{{< faq "Angela Ciampagna" >}}
-
-Fundadora de perfumes Angela Ciampagna 
-
+{{< faq "Angela Ciampagna" >}}  
+Fundadora de perfumes Angela Ciampagna  
 [angelaciampagna.com](http://angelaciampagna.com/)
 
-[![](/images/4.jpg)](angelaciampagna.com "Angela web")
+![](/images/4.jpg)
 
 {{</ faq >}}
 
-{{< faq "**Christian Carbonnel**" >}} 
-
-Perfumista
-
+{{< faq "**Christian Carbonnel**" >}}  
+Perfumista  
 [carbonnel.com](carbonel.com)
 
-[![](/images/5.jpg)](carbonnel.com "Carbonnel web")
+[![](/images/5.jpg)]()
 
 {{</ faq >}}
 
