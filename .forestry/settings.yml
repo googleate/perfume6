@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: exampleSite/content/english/andres-y-juan.md
-  label: Organizadores
-  match: "**/*"
 - type: heading
   label: Homepage
 - type: document
@@ -42,6 +38,10 @@ sections:
   - post
 - type: heading
   label: Others Page
+- type: document
+  path: exampleSite/content/english/andres-y-juan.md
+  label: Organizadores (es)
+  match: "**/*"
 - type: document
   path: exampleSite/content/english/terms-conditions/_index.md
   label: Ceremonia (es)
