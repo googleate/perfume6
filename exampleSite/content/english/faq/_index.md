@@ -83,3 +83,11 @@ Fundador de perfumes Label
 ![](/images/10.jpg)
 
  {{</ faq >}}
+
+{{< faq "**Francesca Bianchi**" >}}  
+Perfumista y marca de perfumes  
+[francescabianchiperfumes.com](http://francescabianchiperfumes.com/ "http://francescabianchiperfumes.com/")
+
+![](/images/11.jpg)
+
+ {{</ faq >}}
