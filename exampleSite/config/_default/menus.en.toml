@@ -23,7 +23,7 @@ url = "/"
 weight = 1
 [[main]]
 name = "Premio"
-url = "https://perfume6.netlify.app/pricing"
+url = "https://perfume6.netlify.app/terms-conditions/"
 weight = 2
 [[main]]
 name = "Jurado"
