@@ -30,7 +30,6 @@
           <li class="nav-item">
             <a class="nav-link" href="{{ .URL | relLangURL }}" title="{{ .Name }}">{{ .Name }}</a>
           </li>
-          <img src="/images/lang.jpg" alt="lang icon" width="45" height="45">
           {{ end }}
           {{ end }}
 
@@ -39,6 +38,7 @@
         {{ if .IsTranslated }}
            
         <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
+           <img src="/images/lang.jpg" alt="lang icon" width="45" height="45">
           {{ $siteLanguages := site.Languages}}
           {{ $pageLang := .Page.Lang}}
           {{ range .Page.AllTranslations }}
@@ -58,7 +58,7 @@
         </select>
         {{ end }}
         </ul>
-
+        
         {{ if site.Params.navigation_button.enable }}
         {{ with site.Params.navigation_button }}
         <a href="{{ .link | relLangURL }}" title="{{ .label }}" class="btn btn-sm btn-primary ml-3">{{ .label }}</a>
