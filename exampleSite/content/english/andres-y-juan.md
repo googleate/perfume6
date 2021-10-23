@@ -1,7 +1,7 @@
 +++
 description = "Organizadores"
 subtitle = ""
-title = "Andres y Juan"
+title = "Los Organizadores"
 
 +++
 Juan Becerril y Andrés Croxatto son los creadores de contenido sobre perfumes más populares de habla hispana.

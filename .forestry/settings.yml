@@ -41,7 +41,6 @@ sections:
 - type: document
   path: exampleSite/content/english/andres-y-juan.md
   label: Organizadores (es)
-  match: "**/*"
 - type: document
   path: exampleSite/content/english/terms-conditions/_index.md
   label: Ceremonia (es)
