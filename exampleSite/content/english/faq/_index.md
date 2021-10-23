@@ -8,7 +8,7 @@ description: Miembros 2021
 Propietaria de perfumes Le Frag  
 [lefrag.com](http://lefrag.com/)
 
-![](/images/1.jpg)
+[![](/images/1.jpg)](lefrag.com)
 
 {{</ faq >}}
 
@@ -16,16 +16,26 @@ Propietaria de perfumes Le Frag
 Fundador de perfume Agatho  
 [agathoparfum.com](http://agathoparfum.com/ "http://agathoparfum.com/")
 
-![](/images/2.jpg)
+[![](/images/2.jpg)](agathoparfum.com)
 
 {{</ faq >}}
 
 {{< faq "Alicia Fernández Pascual" >}}
 Propietaria de la perfumería Nadia, Madrid.
 
+[http://nadiaperfumeria.com/](http://nadiaperfumeria.com/ "http://nadiaperfumeria.com/")
+
+[![](/images/3.jpg)](nadiaperfumeria.com)
+
 {{</ faq >}}
 
-{{< faq "Dino Caracciolo" >}}
+{{< faq "Angela Ciampagna" >}}
+
+Fundadora de perfumes Angela Ciampagna 
+
+[angelaciampagna.com](http://angelaciampagna.com/)
+
+[![](/images/4.jpg)](angelaciampagna.com "Angela web")
 
 {{</ faq >}}
 
