@@ -27,7 +27,7 @@ url = "https://perfume6.netlify.app/blog/premios/"
 weight = 2
 [[main]]
 name = "Jurado"
-url = "https://perfume6.netlify.app/blog/jurado/"
+url = "https://perfume6.netlify.app/faq"
 weight = 3
 [[main]]
 name = "Edición 2021"
