@@ -51,7 +51,8 @@ service:
     images:
     - images/slide3.jpg
     - "/images/slide1.jpg"
-    content: 'Un breve resumen que no sea demasiado largo para que quede ajustado '
+    content: Un breve resumen que no sea demasiado largo para que quede ajustado y
+      no ocupe demasiado espacio aqui
     button:
       enable: true
       label: Click aquí para ver
@@ -60,7 +61,8 @@ service:
     images:
     - images/jurado.jpg
     - "/images/slide2.jpg"
-    content: 'Un breve resumen que no sea demasiado largo para que quede ajustado '
+    content: Un breve resumen que no sea demasiado largo para que quede ajustado y
+      no ocupe demasiado espacio aqui
     button:
       enable: true
       label: Click aquí para ver
@@ -69,7 +71,8 @@ service:
     images:
     - "/images/unnamed.jpg"
     - "/images/slide1.jpg"
-    content: Un breve resumen que no sea demasiado largo para que quede ajustado
+    content: Un breve resumen que no sea demasiado largo para que quede ajustado y
+      no ocupe demasiado espacio aqui
     button:
       enable: true
       label: Click aqui para ver
