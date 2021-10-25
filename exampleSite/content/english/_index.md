@@ -51,7 +51,8 @@ service:
     images:
     - images/slide3.jpg
     - "/images/slide1.jpg"
-    content: ''
+    content: Un breve resumen que no sea demasiado largo para que quede ajustado y
+      no ocupe demasiado espacio
     button:
       enable: true
       label: Click aquí para ver
